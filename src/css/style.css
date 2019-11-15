@@ -1,0 +1,21 @@
+@tailwind base;
+/* Custom stuff like apply goes between base and components */
+
+.btn {
+  @apply text-lg px-3 py-3 rounded font-semibold;
+}
+
+@screen sm {
+  .btn {
+    @apply text-xl;
+  }
+}
+
+@screen lg {
+  .btn {
+    @apply px-4 py-4;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
