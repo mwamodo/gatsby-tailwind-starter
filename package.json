@@ -1,6 +1,6 @@
 {
-  "name": "craft",
-  "description": "We design & build websites & applications",
+  "name": "gatsby-tailwind-starter-pack",
+  "description": "Gatsby, Tailwind Starter Pack.",
   "version": "0.2.1",
   "author": "Mwamodo Erick <erick@nineafrica.com>",
   "dependencies": {
