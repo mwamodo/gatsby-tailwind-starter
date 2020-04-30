@@ -20,12 +20,6 @@
     "react-helmet": "5.2.1",
     "styled-components": "^4.3.2"
   },
-  "keywords": [
-    "gatsby",
-    "tailwind",
-    "tailwindcss",
-    "purgecss"
-  ],
   "license": "MIT",
   "scripts": {
     "analyze:lint": "eslint --ext .jsx --ext .js .",
@@ -55,7 +49,7 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^1.18.2",
-    "tailwindcss": "1.1.2",
+    "tailwindcss": "1.4.0",
     "typescript": "3.5.3"
   }
 }
