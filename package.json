@@ -5,9 +5,9 @@
   "author": "Mwamodo Erick <erick@nineafrica.com>",
   "dependencies": {
     "babel-plugin-styled-components": "1.10.7",
-    "gatsby": "2.24.4",
+    "gatsby": "2.24.10",
     "gatsby-plugin-hotjar-tracking": "1.1.0",
-    "gatsby-plugin-manifest": "2.4.18",
+    "gatsby-plugin-manifest": "2.4.20",
     "gatsby-plugin-offline": "2.2.10",
     "gatsby-plugin-postcss": "2.3.11",
     "gatsby-plugin-purgecss": "5.0.0",
