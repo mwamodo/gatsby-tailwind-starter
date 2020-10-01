@@ -4,7 +4,7 @@
   "version": "0.2.1",
   "author": "Mwamodo Erick <erick@nineafrica.com>",
   "dependencies": {
-    "babel-plugin-styled-components": "1.10.7",
+    "babel-plugin-styled-components": "1.11.1",
     "gatsby": "2.24.67",
     "gatsby-plugin-hotjar-tracking": "1.1.0",
     "gatsby-plugin-manifest": "2.4.33",
